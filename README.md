@@ -1,5 +1,5 @@
 # Data-Structures-Practice
-<p> This repository contains practice for the top 10 topics for interview. </p>
+<p> This repository contains practice for the top 10 topics for interview. Language: python and C++</p>
 
 <ol>
     <li> Graphs </li>
