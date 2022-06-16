@@ -27,3 +27,11 @@
 ### Circular Doubly Linked List
 <p> A Circular Doubly Linked List is similar to a doubly linked list except the tail refers back to the head node.</p>
 <p>head->data1<-->data2<-->tail<-->head<-->data1<-->data2<-->...</p>
+
+## Linked List Analysis
+<p> This is analysis for Linked List Assuming that each is implemented with head and tail </p>
+
+| Analysis | Access | Search | Insertion | Deletion |
+| -------- | ------ | ------ | --------- | -------- |
+| Singly Linked List | O(n) | O(n) | O(1) | O(1) |
+| Doubly Linked List | O(n) | O(n) | O(1) | O(1) |
