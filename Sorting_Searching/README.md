@@ -9,5 +9,7 @@
 
 <p> Given array [10, 20, 30, 50, 60, 80, 110, 130, 140, 170] find 20 </p>
 <ol>
-    <li>[10, 20, 30, 50, <em><strong>60</strong></em>, 80, 110, 130, 140, 170]</li>
+    <ul> First find middle element: 60
+        <li>[10, 20, 30, 50, <em><strong>60</strong></em>, 80, 110, 130, 140, 170] <-</li>
+    </ul>
 </ol>
