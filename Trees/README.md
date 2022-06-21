@@ -9,4 +9,4 @@
 </ul>
 
 ## Example Binary Search Tree
-<img src="BinarySearchTreeExample.jpg" alt="Binary Search Tree Example">
+<img src="BinarySearchTreeExample.JPG" alt="Binary Search Tree Example">
